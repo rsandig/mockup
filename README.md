@@ -10,4 +10,4 @@
 9. As a user, I want to receive an email when a movie I may like is reviewed
  
 
-# Directory
+# Domain model
